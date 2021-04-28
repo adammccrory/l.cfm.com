@@ -1,0 +1,120 @@
+Uri: https://l.contactfieldmarketing.com/
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\index.htm
+Content Type: text/html
+
+Uri: https://l.contactfieldmarketing.com/field-marketing
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\field-marketing.html
+Content Type: text/html
+
+Uri: https://l.contactfieldmarketing.com/in-store-demonstrating
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\in-store-demonstrating.html
+Content Type: text/html
+
+Uri: https://l.contactfieldmarketing.com/merchandising
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\merchandising.html
+Content Type: text/html
+
+Uri: https://l.contactfieldmarketing.com/pos-placement
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\pos-placement.html
+Content Type: text/html
+
+Uri: https://l.contactfieldmarketing.com/sampling
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\sampling.html
+Content Type: text/html
+
+Uri: https://l.contactfieldmarketing.com/vendor/bootstrap/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://l.contactfieldmarketing.com/vendor/font-awesome/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://l.contactfieldmarketing.com/vendor/magnific-popup/magnific-popup.css
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://l.contactfieldmarketing.com/css/creative.css
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\css\creative.css
+Content Type: text/css
+
+Uri: https://l.contactfieldmarketing.com/logo.svg
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://l.contactfieldmarketing.com/img/portfolio/thumbnails/1.jpg
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\img\portfolio\thumbnails\1.jpg
+Content Type: image/jpeg
+
+Uri: https://l.contactfieldmarketing.com/img/portfolio/thumbnails/2.jpg
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\img\portfolio\thumbnails\2.jpg
+Content Type: image/jpeg
+
+Uri: https://l.contactfieldmarketing.com/img/portfolio/thumbnails/3.jpg
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\img\portfolio\thumbnails\3.jpg
+Content Type: image/jpeg
+
+Uri: https://l.contactfieldmarketing.com/img/portfolio/thumbnails/4.jpg
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\img\portfolio\thumbnails\4.jpg
+Content Type: image/jpeg
+
+Uri: https://l.contactfieldmarketing.com/img/portfolio/thumbnails/5.jpg
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\img\portfolio\thumbnails\5.jpg
+Content Type: image/jpeg
+
+Uri: https://l.contactfieldmarketing.com/img/portfolio/thumbnails/6.jpg
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\img\portfolio\thumbnails\6.jpg
+Content Type: image/jpeg
+
+Uri: https://l.contactfieldmarketing.com/vendor/jquery/jquery.min.js
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://l.contactfieldmarketing.com/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://l.contactfieldmarketing.com/vendor/jquery-easing/jquery.easing.min.js
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\jquery-easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://l.contactfieldmarketing.com/vendor/scrollreveal/scrollreveal.min.js
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\scrollreveal\scrollreveal.min.js
+Content Type: application/javascript
+
+Uri: https://l.contactfieldmarketing.com/vendor/magnific-popup/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://l.contactfieldmarketing.com/js/creative.js
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\js\creative.js
+Content Type: application/javascript
+
+Uri: https://l.contactfieldmarketing.com/vendor/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://l.contactfieldmarketing.com/vendor/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://l.contactfieldmarketing.com/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://l.contactfieldmarketing.com/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://l.contactfieldmarketing.com/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://l.contactfieldmarketing.com/vendor/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\vendor\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://l.contactfieldmarketing.com/img/header.jpg
+File Name: c:\Downloaded Web Sites\l.contactfieldmarketing.com\img\header.jpg
+Content Type: image/jpeg
+
